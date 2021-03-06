@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289882309025",
+    "firebase_url": "https://pacem-3548f.firebaseio.com",
+    "project_id": "pacem-3548f",
+    "storage_bucket": "pacem-3548f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289882309025:android:e759f41783f18229868be0",
+        "android_client_info": {
+          "package_name": "com.mmcoe.pacem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289882309025-hf7afa984fdh6k9ukkshoqrfbadrta63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmcoe.pacem",
+            "certificate_hash": "c586d5115798f97dc9e199283ba86982e127987a"
+          }
+        },
+        {
+          "client_id": "289882309025-d56fhmgbfuoc19s0iirfrs1iv2ag0m4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLAmvRKevp3aMoP-Y5k0yNehsLEnqBwn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289882309025-d56fhmgbfuoc19s0iirfrs1iv2ag0m4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
